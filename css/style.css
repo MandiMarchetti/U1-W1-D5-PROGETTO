@@ -122,28 +122,28 @@ h4, h5{
 }
 
 .fotob{
-    width: 255px;
+    width: 80%;
     padding: 30px;
     display: flex;
-    border-radius: 50%;  
+    border-radius: 50%; 
 
 }
 
 .fotoc{
-    width: 255px;
-    padding: 20px;
+    width: 80%;
+    padding: 30px;
     display: flex;
 }
 
 .fotod{
-    width: 255px;
-    padding: 20px;
+    width: 80%;
+    padding: 30px;
     display: flex;
 }
 
 .fotoe{
-    width: 255px;
-    padding: 20px;
+    width: 80%;
+    padding: 30px;
     display: flex;
 
 }
