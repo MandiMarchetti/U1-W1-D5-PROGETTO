@@ -23,7 +23,7 @@
 h2{
     display: flex;
     text-align: center;
-    padding: 50px 20px 5px 20px;
+    padding: 40px 20px 5px 20px;
     color: #25a2c3;
     font-size: 2.0rem;
     font-weight: bold;
@@ -203,7 +203,7 @@ footer{
     color: white;
     background-color: #25a2c3;
     margin-top: 70px;
-    height: 250px;
+    height: 300px;
     justify-content: center;
 }
 
@@ -216,23 +216,50 @@ section{
 
 .telefono{
     margin-bottom: 10px;
+    text-decoration: underline;
+    
 
+}
+
+.tel{
+    display: flex;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
 }
 
 .mail{
     margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+.email{
+    display: flex;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
 }
 
 .indirizzio{
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+.end{
+    display: flex;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
 }
 
 .copyright{
-    margin-top: 20pxpx;
-    margin-bottom: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
     
 }
 
 .vuoto{
-    
+    display: inline-block;
+    background-color: white;
+    width: 200px;
+    height: 1px;
 }
