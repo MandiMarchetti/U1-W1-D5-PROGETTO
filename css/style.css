@@ -202,4 +202,33 @@ h5{
 footer{
     color: white;
     background-color: #25a2c3;
+    margin-top: 70px;
+    height: 250px;
+    justify-content: center;
+}
+
+section{
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.telefono{
+    margin-bottom: 10px;
+
+}
+
+.mail{
+    margin-bottom: 10px;
+}
+
+.indirizzio{
+    margin-bottom: 20px;
+}
+
+.copyright{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-top: white solid 1px;
 }
