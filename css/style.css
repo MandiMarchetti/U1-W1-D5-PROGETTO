@@ -228,7 +228,11 @@ section{
 }
 
 .copyright{
-    margin-top: 20px;
+    margin-top: 20pxpx;
     margin-bottom: 30px;
-    border-top: white solid 1px;
+    
+}
+
+.vuoto{
+    
 }
